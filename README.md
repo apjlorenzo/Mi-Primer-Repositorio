@@ -1,6 +1,5 @@
 # Mi Primer Repositorio
- Repositorio público de prueba
+ Repositorio público de prueba en colaboración
 ## Integrantes:
 + Pablo Lorenzo 
-+ Josue Soch
 + Jefferson Chávez
